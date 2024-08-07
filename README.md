@@ -28,9 +28,10 @@ Header has logo and name of the company along with the navigation bar to differn
 </nav>
 </header>
 ```
+
 #### Footer
 Footer has social media links and contact information & address. here is the code for the footer
-```html
+``` html
  <footer>
     <div class="social-media">
         <a href="https://www.facebook.com" target="_blank">
