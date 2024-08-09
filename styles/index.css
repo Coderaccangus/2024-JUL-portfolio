@@ -6,13 +6,15 @@
 
 body {
     margin: 0;
-
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    /* justify-content: space-between; */
+    justify-content: space-between;
 }
 
+.main-body {
+    background-color: var(--primary-background);
+}
 
 header {
     background-color: var(--primary-color);
@@ -90,12 +92,10 @@ footer {
     .logo-name {
         margin-bottom: 0;
     }
-}
+
 
 nav {
      width: 50%;
-
-
 }
 
 .social-media {
@@ -104,9 +104,9 @@ nav {
     margin-right: auto;
 
  }
-
+}
  @media screen and (min-width: 768px) {
     body {
-        padding: 0 15vw;
+        margin: 0 15vw;
     }
  }
