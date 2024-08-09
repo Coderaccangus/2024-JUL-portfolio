@@ -55,10 +55,11 @@ Footer has social media links and contact information & address. here is the cod
  </footer>
  ```
 
+
  ## Pages
 
  ### home
  Home page is the starting which consists of a cover image and some detail about the company.
 
  ### Services
-Services page show different service provied by the company such as web development.
+Services page show different service provied by the company such as web development. this page shows three services
