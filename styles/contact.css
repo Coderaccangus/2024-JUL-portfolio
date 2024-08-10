@@ -47,7 +47,6 @@ main {
     border: none;
     background-color: var(--primary-color);
     border-radius: 4px;
-
 }
 
 .submit-btn:hover {
@@ -56,17 +55,17 @@ main {
 }
 
 @media screen and (min-width: 576px) {
+
     form {
         width: 500px;
     }
 
-    .form-element{
+    .form-element {
         flex-direction: row;
-
+        justify-content: space-between;
     }
 
-    .form-input{
-        width: 7-;
+    .form-input {
+        width: 70%;
     }
 }
-    
