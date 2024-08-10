@@ -66,3 +66,6 @@ Services page show different service provied by the company such as web developm
 
 ### Contact 
 the contact page allows the user to contact the company providing differnt infomation.
+
+### About
+Updated about page with information about our company
