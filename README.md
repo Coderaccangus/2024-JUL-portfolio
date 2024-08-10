@@ -63,3 +63,6 @@ Footer has social media links and contact information & address. here is the cod
 
  ### Services
 Services page show different service provied by the company such as web development. this page shows three services
+
+### Contact 
+the contact page allows the user to contact the company providing differnt infomation.
